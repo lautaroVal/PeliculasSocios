@@ -1,0 +1,64 @@
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\appsettings.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\clase2.exe
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\clase2.deps.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\clase2.runtimeconfig.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\clase2.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\clase2.pdb
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.csproj.AssemblyReference.cache
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.AssemblyInfoInputs.cache
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.AssemblyInfo.cs
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.csproj.CoreCompileInputs.cache
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\staticwebassets\msbuild.clase2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\staticwebassets\msbuild.build.clase2.props
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.clase2.props
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.clase2.props
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\scopedcss\bundle\clase2.styles.css
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.csproj.CopyComplete
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\refint\clase2.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.pdb
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\clase2.genruntimeconfig.cache
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Nueva carpeta\clase2b\clase2\obj\Debug\net6.0\ref\clase2.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\appsettings.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\clase2.exe
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\clase2.deps.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\clase2.runtimeconfig.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\clase2.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\clase2.pdb
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.csproj.AssemblyReference.cache
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.AssemblyInfoInputs.cache
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.AssemblyInfo.cs
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.csproj.CoreCompileInputs.cache
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\staticwebassets\msbuild.clase2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\staticwebassets\msbuild.build.clase2.props
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.clase2.props
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.clase2.props
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\scopedcss\bundle\clase2.styles.css
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.csproj.CopyComplete
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\refint\clase2.dll
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.pdb
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\clase2.genruntimeconfig.cache
+C:\Users\Galluron\Desktop\Programación\Bootcamp-Alkemy-S.Miguel-.net\Ejercicios\clase2b\clase2\obj\Debug\net6.0\ref\clase2.dll
